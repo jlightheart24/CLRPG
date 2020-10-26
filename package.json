@@ -1,0 +1,25 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlightheart24/CLRPG.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlightheart24/CLRPG/issues"
+  },
+  "homepage": "https://github.com/jlightheart24/CLRPG#readme",
+  "devDependencies": {
+    "jest": "^26.6.1"
+  }
+}
